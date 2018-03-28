@@ -4,8 +4,8 @@ A voice reminder assistant and an activity monitoring 2-in-1 device for assistin
 
 ## Technology
 
-IoT Cloud pPlatform
-Text to Speech cloud service
-Visual Recognition cloud service
+* IoT Cloud pPlatform
+* Text to Speech cloud service
+* Visual Recognition cloud service
 
 
